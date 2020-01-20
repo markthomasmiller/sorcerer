@@ -1,6 +1,6 @@
 {
-  "name": "alchemy",
-  "displayName": "Alchemy",
+  "name": "sorcerer",
+  "displayName": "Sorcerer",
   "description": "A vibrant, dark color scheme.",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Alchemy",
+        "label": "Sorcerer",
         "uiTheme": "vs-dark",
-        "path": "./themes/Alchemy-color-theme.json"
+        "path": "./themes/Sorcerer-color-theme.json"
       }
     ]
   }

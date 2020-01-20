@@ -15,6 +15,7 @@ html {
   background: #000;
   color: #fff;
   line-height: 1;
+  line-height: 1.5;
 }
 
 body {
@@ -34,7 +35,7 @@ h2 {
 }
 
 p {
-  margin: 2rem 0;
+  margin: 1rem 0;
   color: #6e7d9a;
 }
 
@@ -44,6 +45,10 @@ a {
   transition: 200ms color ease-in-out;
 }
 
+.min-height {
+  min-height: 100vh;
+}
+
 section {
   padding: 1rem 0;
   text-align: center;
@@ -51,6 +56,7 @@ section {
 
 img {
   max-width: 1200px;
+  width: 100%;
 }
 
 .hero {
@@ -93,19 +99,20 @@ img {
 }
 
 .button {
-  background: #ff006a;
+  background: #ff006acc;
   padding: 0.75rem 1.5rem;
   display: inline-block;
   border-radius: 2rem;
-  color: #fff;
-  transition: 100ms background ease-in-out;
+  color: #eee;
+  transition: 250ms background ease-in-out, 250ms box-shadow ease-in-out;
   font-weight: 500;
   border: 0;
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.25);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.5);
 }
 
 .button:hover {
-  background: #db005b;
+  background: #ff006a;
+  color: #fff;
 }
 
 .footer {
@@ -152,7 +159,7 @@ button:hover {
 }
 
 .title-section {
-  margin-bottom: 3rem;
+  margin-bottom: 4rem;
 }
 
 /* Animations */
