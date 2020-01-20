@@ -1,0 +1,21 @@
+{
+  "name": "alchemy",
+  "displayName": "Alchemy",
+  "description": "A vibrant, dark color scheme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Alchemy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Alchemy-color-theme.json"
+      }
+    ]
+  }
+}
