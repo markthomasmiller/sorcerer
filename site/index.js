@@ -24,7 +24,7 @@ highlight(buttons[0]);
 selector.addEventListener("click", e => {
   if (e.target.nodeName !== "BUTTON") return false;
   const index = e.target.getAttribute("data-index");
-  image.src = `sorcerer/images/${languages[index].toLowerCase()}.png`;
+  image.src = `images/${languages[index].toLowerCase()}.png`;
   highlight(e.target);
 });
 

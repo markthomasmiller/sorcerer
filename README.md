@@ -1,6 +1,6 @@
 # Sorcerer: a vibrant dark theme for VS Code
 
-![Sorcerer, a VS Code theme](images/jsx.png)
+![Sorcerer, a VS Code theme](site/images/jsx.png)
 
 Sorcerer is a vibrant dark theme for VS Code. It uses the same colors as [MageTools](https://mage.tools):
 
