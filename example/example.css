@@ -1,0 +1,57 @@
+/* Box-sizing rules */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-size-adjust: 100%;
+}
+
+/* Set general fonts and line height */
+html {
+  font-family: "Proxima Nova";
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+/* Set body color */
+.dark body {
+  background: #000;
+  color: #eee;
+}
+
+.light body {
+  background: #fff;
+  color: #333;
+}
+
+/* General reset */
+body {
+  min-height: 100vh;
+  scroll-behavior: smooth;
+  text-rendering: optimizeLegibility;
+  line-height: 1.666666;
+  background: #fff;
+}
+
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}

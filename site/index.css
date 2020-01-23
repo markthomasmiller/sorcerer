@@ -18,6 +18,12 @@ html {
   line-height: 1.5;
 }
 
+@media (max-width: 1000px) {
+  html {
+    font-size: 16px;
+  }
+}
+
 body {
   background: linear-gradient(0deg, #16202b, #0e141a);
 }
@@ -57,6 +63,17 @@ section {
 img {
   max-width: 1200px;
   width: 100%;
+  border: 1px solid #ffffff11;
+  border-radius: 1rem;
+  margin: 1rem 0;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 1000px) {
+  img {
+    border-radius: 1rem;
+    box-shadow: none;
+  }
 }
 
 .hero {
@@ -137,7 +154,7 @@ button {
   padding: 0.25rem 0.75rem;
   border-radius: 2rem;
   background: none;
-  font-size: 14px;
+  font-size: 0.8rem;
   color: #fff;
   border: 0;
   margin: 0 8px 0 0;
@@ -150,6 +167,10 @@ button {
 button:hover {
   background: #ffffff11;
   transition: none;
+}
+
+button:last-of-type {
+  margin-right: 0;
 }
 
 .active {
