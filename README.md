@@ -17,6 +17,7 @@ It uses the same palette of neon colors as MageTools. These colors were carefull
 - green: `#aaed36`
 - yellow: `#f5af19`
 - gray: `#6e7d9a`
+- dark blue: `#0e141a`
 
 Special care was given to the appearance of several languages which are popular in frontend development:
 
