@@ -6,7 +6,7 @@
     "url": "https://github.com/markthomasmiller/sorcerer.git"
   },
   "displayName": "Sorcerer",
-  "description": "A vibrant, dark color scheme.",
+  "description": "A vibrant, dark color scheme inspired by MageTools.",
   "version": "0.0.1",
   "icon": "/site/images/logo.png",
   "engines": {
