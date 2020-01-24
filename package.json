@@ -9,6 +9,13 @@
   "description": "A vibrant, dark color scheme inspired by MageTools.",
   "version": "0.0.2",
   "icon": "site/images/logo.png",
+  "keywords": [
+    "neon",
+    "dark",
+    "cyberpunk",
+    "vivid",
+    "bright"
+  ],
   "engines": {
     "vscode": "^1.41.0"
   },
