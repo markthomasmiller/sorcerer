@@ -1,10 +1,14 @@
 {
   "name": "sorcerer",
-  "publisher": "MarkThomasMiller",
-  "repository": "https://github.com/markthomasmiller/sorcerer",
+  "publisher": "Mark Thomas Miller",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markthomasmiller/sorcerer.git"
+  },
   "displayName": "Sorcerer",
   "description": "A vibrant, dark color scheme.",
   "version": "0.0.1",
+  "icon": "/site/images/logo.png",
   "engines": {
     "vscode": "^1.41.0"
   },
