@@ -1,14 +1,20 @@
 {
   "name": "sorcerer",
+  "displayName": "Sorcerer",
   "publisher": "MarkThomasMiller",
   "repository": {
     "type": "git",
     "url": "https://github.com/markthomasmiller/sorcerer.git"
   },
-  "displayName": "Sorcerer",
+  "author": {
+    "name": "Mark Thomas Miller"
+  },
+  "categories": [
+    "Themes"
+  ],
   "description": "A vibrant, dark color scheme inspired by MageTools.",
-  "version": "0.0.2",
-  "icon": "site/images/logo.png",
+  "version": "0.1.0",
+  "icon": "site/images/icon.png",
   "keywords": [
     "neon",
     "dark",
@@ -16,12 +22,19 @@
     "vivid",
     "bright"
   ],
+  "galleryBanner": {
+    "color": "#0e141a",
+    "theme": "dark"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "homepage": "https://sorcerer.mage.tools",
+  "bugs": {
+    "url": "https://github.com/markthomasmiller/sorcerer/issues",
+    "email": "mark@mayvalellc.com"
+  },
   "engines": {
     "vscode": "^1.41.0"
   },
-  "categories": [
-    "Themes"
-  ],
   "contributes": {
     "themes": [
       {
