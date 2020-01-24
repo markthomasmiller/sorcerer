@@ -7,8 +7,8 @@
   },
   "displayName": "Sorcerer",
   "description": "A vibrant, dark color scheme inspired by MageTools.",
-  "version": "0.0.1",
-  "icon": "/site/images/logo.png",
+  "version": "0.0.2",
+  "icon": "site/images/logo.png",
   "engines": {
     "vscode": "^1.41.0"
   },
