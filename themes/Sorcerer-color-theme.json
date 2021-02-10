@@ -116,7 +116,15 @@
         "variable.language.this.js.jsx",
         "meta.import.js string",
         "meta.import.js variable",
-        "meta.import.js meta.block variable.other"
+        "meta.import.js meta.block variable.other",
+        "meta.import.tsx",
+        "meta.import.tsx string",
+        "meta.import.tsx variable",
+        "meta.import.tsx meta.block variable.other",
+        "meta.import.ts",
+        "meta.import.ts string",
+        "meta.import.ts variable",
+        "meta.import.ts meta.block variable.other"
       ],
       "settings": {
         "foreground": "#6e7d9a"
@@ -410,7 +418,11 @@
         "meta.import.js",
         "punctuation.terminator.statement.js",
         "keyword.control.import.js",
-        "keyword.control.from.js"
+        "keyword.control.from.js",
+        "keyword.control.import.tsx",
+        "keyword.control.from.tsx",
+        "keyword.control.import.ts",
+        "keyword.control.from.ts"
       ],
       "settings": {
         "foreground": "#5a6986aa"
