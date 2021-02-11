@@ -24,4 +24,4 @@ If you're _just_ starting out, learn the very basics: variables, comments, funct
 After you learn the basics, try to build something you're curious about. For me, this was a WordPress plugin and a Zelda-like dungeon generator. You'll learn faster and stay more motivated when you're interested in the finished product.
 
 
-[Read the whole post...](https://zeph.co/programming)
+[Read the whole post...](https://mtm.dev/programming)

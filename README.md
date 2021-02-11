@@ -26,4 +26,4 @@ Special care was given to the appearance of several languages which are popular 
 
 I'd love to expand Sorcerer beyond these languages. If you encounter any quirks or want to help out, I'd love for you to submit an issue or pull request at [github.com/markthomasmiller/sorcerer](https://github.com/markthomasmiller/sorcerer). This helps me stay organized and work to make the theme better for everyone.
 
-Author: [Mark Thomas Miller](https://zeph.co) ([Twitter](https://twitter.com/mayvalemark))
+Author: [Mark Thomas Miller](https://mtm.dev) ([Twitter](https://twitter.com/mtmdev_))

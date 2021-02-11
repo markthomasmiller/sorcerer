@@ -30,7 +30,7 @@
   "homepage": "https://sorcerer.mage.tools",
   "bugs": {
     "url": "https://github.com/markthomasmiller/sorcerer/issues",
-    "email": "mark@mayvalellc.com"
+    "email": "m@mtm.dev"
   },
   "engines": {
     "vscode": "^1.41.0"
