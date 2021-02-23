@@ -124,7 +124,9 @@
         "meta.import.ts",
         "meta.import.ts string",
         "meta.import.ts variable",
-        "meta.import.ts meta.block variable.other"
+        "meta.import.ts meta.block variable.other",
+        "punctuation.definition.template-expression.begin",
+        "punctuation.definition.template-expression.end"
       ],
       "settings": {
         "foreground": "#6e7d9a"
