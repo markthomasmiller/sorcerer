@@ -40,6 +40,7 @@
     "welcomePage.buttonHoverBackground": "#ffffff04",
     "focusBorder": "#ff006a44",
     "menu.border": "#ffffff09",
+    "menu.selectionBackground": "#ffffff15",
     "titleBar.border": "#ffffff09",
     "checkbox.border": "#ffffff09",
     "diffEditor.border": "#ffffff09",
