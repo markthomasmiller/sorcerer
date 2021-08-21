@@ -68,7 +68,8 @@
     "activityBar.foreground": "#6e7d9a",
     "editorWidget.background": "#0e141a",
     "editorWidget.border": "#ffffff09",
-    "editorSuggestWidget.background": "#0a1016"
+    "editorSuggestWidget.background": "#0a1016",
+    "editorSuggestWidget.selectedBackground": "#ffffff15"
   },
   "tokenColors": [
     {
