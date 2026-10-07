@@ -27,3 +27,7 @@ Special care was given to the appearance of several languages which are popular 
 I'd love to expand Sorcerer beyond these languages. If you encounter any quirks or want to help out, I'd love for you to submit an issue or pull request at [github.com/markthomasmiller/sorcerer](https://github.com/markthomasmiller/sorcerer). This helps me stay organized and work to make the theme better for everyone.
 
 Author: [Mark Thomas Miller](https://mtm.dev) ([Twitter](https://twitter.com/mtmdev_))
+
+## Publishing to Open VSX
+
+Sorcerer can also be published to [Open VSX](https://open-vsx.org). The maintainer should create the `MarkThomasMiller` namespace there (and claim it if needed), create an Open VSX access token, and add it to this repository's GitHub Actions secrets as `OVSX_PAT`. Publishing a GitHub release will package and publish the extension to Open VSX.
